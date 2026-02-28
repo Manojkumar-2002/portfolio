@@ -25,13 +25,13 @@ function About() {
             <h1 className="display-4 text-danger mb-4">About Me</h1>
             <hr className="mb-4" />
             <p className="mb-4">
-              Hi, I'm Manoj Kumar, a Backend Developer at MNK GCS in Bengaluru, specializing in building scalable Django-based systems and distributed microservices.
+              Hi, I'm Manoj Kumar, a Backend Developer at MNK GCS, Bengaluru. I specialize in building scalable Django-based systems and distributed microservices that power enterprise applications.
             </p>
             <p className="mb-4">
-              I design and develop high-performance backend solutions with expertise in async processing (Celery), AI-powered document extraction (AWS Bedrock, OpenAI), secure authentication (OAuth 2.0, SSO), and financial data processing. My work directly impacts insurance broking operations and enterprise access management systems.
+              I develop high-performance backend solutions with expertise in async processing, AI-powered automation, secure authentication, and financial data systems. My work supports insurance broking operations and enterprise access management platforms.
             </p>
             <p className="mb-4">
-              I hold a BE in Computer Science & Engineering from UCEN Nagercoil (2020-2024) with hands-on experience in delivering mission-critical enterprise solutions.
+              I hold a BE in Computer Science & Engineering from UCEN Nagercoil (2020-2024).
             </p>
             <p className="mb-4">
               <strong>Core Competencies:</strong> Python, Django/DRF, PostgreSQL, Celery, AWS (SQS/S3/Bedrock), OpenAI, Docker, Microservices Architecture
