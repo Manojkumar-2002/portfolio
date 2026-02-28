@@ -8,6 +8,8 @@ import './App.css'
 import Skills from "./components/Skills";
 import Projects from "./components/Projects";
 import Experience from "./components/Experience";
+import Achievements from "./components/Achievements";
+import Resume from "./components/Resume";
 import Home from "./components/Home";
 import Navbar from './components/inc/Navbar'
 
@@ -21,6 +23,7 @@ function MyHome() {
         <Skills />
         <Projects />
         <Experience />
+        <Achievements />
       </div></>
   );
 }
@@ -44,6 +47,7 @@ const App = () => {
           <Route path="/skills" element={<Skills />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/experience" element={<Experience />} />
+          <Route path="/resume" element={<Resume />} />
         </Routes>
       </Router>
     </div>

@@ -25,27 +25,16 @@ function About() {
             <h1 className="display-4 text-danger mb-4">About Me</h1>
             <hr className="mb-4" />
             <p className="mb-4">
-              Hi, I’m Manoj Kumar from Tuticorin, India. I’m currently working as a Python Developer Intern at MNK Global Services.
+              Hi, I'm Manoj Kumar, a Backend Developer at MNK GCS in Bengaluru, specializing in building scalable Django-based systems and distributed microservices.
             </p>
             <p className="mb-4">
-              I’m gaining valuable experience and working on diverse projects, leveraging Python and other modern technologies.
+              I design and develop high-performance backend solutions with expertise in async processing (Celery), AI-powered document extraction (AWS Bedrock, OpenAI), secure authentication (OAuth 2.0, SSO), and financial data processing. My work directly impacts insurance broking operations and enterprise access management systems.
             </p>
             <p className="mb-4">
-              I’ve completed my BE in Computer Science & Engineering at UCEN, and I’m passionate about tackling challenging problems in software development.
+              I hold a BE in Computer Science & Engineering from UCEN Nagercoil (2020-2024) with hands-on experience in delivering mission-critical enterprise solutions.
             </p>
             <p className="mb-4">
-              Some activities that I enjoy outside of coding include:
-              <ul>
-                <li className="d-flex align-items-center">
-                  <ImPointRight className="me-2" /> Playing Chess
-                </li>
-                <li className="d-flex align-items-center">
-                  <ImPointRight className="me-2" /> Traveling
-                </li>
-              </ul>
-            </p>
-            <p className="mb-4">
-              "Strive to build things that make a difference!"
+              <strong>Core Competencies:</strong> Python, Django/DRF, PostgreSQL, Celery, AWS (SQS/S3/Bedrock), OpenAI, Docker, Microservices Architecture
             </p>
           </div>
           <div className="col-lg-6 mt-4 mt-lg-0">

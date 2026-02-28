@@ -1,23 +1,42 @@
 [
     {
-        "title": "Weather Application",
-        "description": "Technologies: React, Weather API",
-        "image": "weather",
-        "github": "https://github.com/Manojkumar-2002/Weather-Application",
+        "title": "MNKSYS - Insurance Broking Ecosystem",
+        "description": "MNK GCS",
+        "technologies": "Django, PostgreSQL, PGP Encryption",
+        "image": "mnksys",
+        "github": "#",
         "site": "#"
     },
     {
-        "title": "Job Scraper",
-        "description": "Technologies: React, Python, Flask.",
-        "image": "Job",
-        "github": "https://github.com/Manojkumar-2002/Job-Scraper",
+        "title": "SMGA - Access & Ops Management",
+        "description": "MNK GCS",
+        "technologies": "Django, OAuth 2.0, Microsoft SSO, OTP",
+        "image": "smga",
+        "github": "#",
         "site": "#"
     },
     {
-        "title": "E-Commerce",
-        "description": "Technologies: MERN",
-        "image": "ECommerce",
-        "github": "https://github.com/Manojkumar-2002/E-Cart",
+        "title": "SignStamp Microservice",
+        "description": "MNK GCS",
+        "technologies": "Django, Celery, AWS SQS/S3",
+        "image": "pdf",
+        "github": "#",
+        "site": "#"
+    },
+    {
+        "title": "Business Card AI",
+        "description": "MNK GCS",
+        "technologies": "Django, AWS Bedrock AI, OCR",
+        "image": "biz",
+        "github": "#",
+        "site": "#"
+    },
+    {
+        "title": "BankMatch AI",
+        "description": "MNK GCS",
+        "technologies": "Django, OpenAI, Celery",
+        "image": "bank",
+        "github": "#",
         "site": "#"
     }
 ]

@@ -43,9 +43,6 @@ function Experience() {
                     ))}
                   </ul>
                 </div>
-                <div className="card-footer text-center">
-                  <button className="btn btn-outline-light btn-lg">View Details</button>
-                </div>
               </div>
             </div>
           ))}

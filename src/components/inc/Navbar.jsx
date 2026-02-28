@@ -1,6 +1,7 @@
 import React, { useState } from "react";
-import { IoMdHome, IoMdPerson, IoMdCodeWorking, IoMdFolder, IoMdMail } from "react-icons/io";
-import { FaBriefcase, FaLinkedin, FaInstagram, FaGithub } from "react-icons/fa";
+import { IoMdHome, IoMdPerson, IoMdCodeWorking, IoMdFolder, IoMdMail, IoMdDocument } from "react-icons/io";
+import { FaBriefcase, FaLinkedin, FaGithub } from "react-icons/fa";
+import { Link } from "react-router-dom";
 import NameIcon from "../../assets/images/Name.ico";
 
 function Navbar() {
@@ -59,6 +60,11 @@ function Navbar() {
               </a>
             </li>
             <li className="nav-item">
+              <Link className="nav-link d-flex align-items-center text-white" to="/resume">
+                <IoMdDocument className="me-2" /> Resume
+              </Link>
+            </li>
+            <li className="nav-item">
               <a
                 className="nav-link d-flex align-items-center text-white"
                 href="https://github.com/Manojkumar-2002"
@@ -84,16 +90,6 @@ function Navbar() {
                 rel="noopener noreferrer"
               >
                 <FaLinkedin className="me-2" /> LinkedIn
-              </a>
-            </li>
-            <li className="nav-item">
-              <a
-                className="nav-link d-flex align-items-center text-white"
-                href="https://www.instagram.com/manoj.__.kumar"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <FaInstagram className="me-2" /> Instagram
               </a>
             </li>
           </ul>

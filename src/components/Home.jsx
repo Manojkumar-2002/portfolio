@@ -56,7 +56,7 @@ const Home = () => {
                             I'm Manoj Kumar,
                         </p>
                         <p className="lead mt-4" style={{ fontFamily: 'Arial, sans-serif', fontSize: '1.8rem', color: '#FFFFFF' }}>
-                            a passionate developer and problem solver!
+                            Backend Developer at MNK GCS
                         </p>
                     </div>
                 </div>
